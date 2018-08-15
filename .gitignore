@@ -1,0 +1,8 @@
+.pyc
+.log
+.csv
+.pkl
+.DS_Store
+logs/
+data/
+.ipynb_checkpoints/
